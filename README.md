@@ -1,7 +1,8 @@
 ### Oii Eu sou a Narfyy
 
 - 🔭 Sou iniciante em Programação
-- 🌱 Estudando: Javascript e Design
+- 👥 Profissão: Professora de Inglês e Tradutora
+- 🌱 Estudando: Javascript e Phyton
 - 👯 Pronomes: Ela/Dela
 - ⚡ Hobbies: Jogar, séries e ler
 
@@ -14,7 +15,7 @@
 ##
 
 <div>
-  <a href="https://www.instagram.com/bennytask" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/SafiraLix" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/szatanx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/endswithnarf" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  	<a href="https://steamcommunity.com/profiles/76561198317871711" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   </div>
